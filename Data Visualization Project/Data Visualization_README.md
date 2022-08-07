@@ -4,8 +4,6 @@
 Power BI is an interactive data visualization software by Microsoft with a primary focus on business intelligence.
 Business Intelligence is a broad term which combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations make more data-driven decisions.
 
-![](https://drive.google.com/file/d/1I5dsMneSfJ5ByIuRmSxngeTW8oB467yy/view?usp=sharing)
-![alt](http://url/to/img.png)
 
 ## The Project Itself: SaGo's Coffee House
 
@@ -60,6 +58,7 @@ Home Ribbon --> Transform Data --> Data Source Setting -->Change Source. Update 
 
     3.A Donut Chart: Quantity Sold to Female Customer over the Year
 
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Data%20Visualization%20Project/Screenshots/1.PNG)
 
 
 ### Page 2: All about Products and Store Wise Sales. Inbuild functions used: **REMOVEFILTERS**,**KEEPFILTERS**
