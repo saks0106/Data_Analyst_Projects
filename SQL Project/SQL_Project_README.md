@@ -24,7 +24,13 @@ With what we know now, we should be able to deduce some information from the dat
     3.Keiko Corp Latitude: 40.5 to 40.6
 
 With this information we should be able to figure out which rides happened that day around the office premises.
-Pam has asked to find the vehicle and owner info linked to those rides without any duplicates records!
+Pam has asked to find the vehicle and owner info linked to those rides without any duplicates records! Let's check the tables we're going to deal with!
+
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capdture.PNG)
+
+Let's Check the Vehicle Location Histories Table
+
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture1.PNG)
 
 ## Query 1: Getting Rider_id
 
@@ -37,7 +43,7 @@ ORDER BY long;
 
 ```
 
-
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture2.PNG)
 
 
 We got 428 records from the above query which is quite extensive.
@@ -45,6 +51,9 @@ Now that we know which vehicles were linked to those rides we use their current 
 
 All the work and the interrogation of the drivers has come up flat as dealing with 428 riders is no joke.
 We'll go ahead and filter out all of the unique riders(passengers) that were on those suspected rides on that horrible day of heist.
+Let's Create a VIEW(Stored Procedure) for our above query
+
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture3.PNG)
 
 ## Query 2: Multijoin for Specific Drivers
 
@@ -56,6 +65,8 @@ INNER JOIN vehicles AS v ON v.id = r.vehicle_id
 INNER JOIN users AS u ON u.id = v.owner_id;
 
 ```
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture4.PNG)
+
 We have done it! Well not quite there yet. We have narrowed done to just 89 records from potentially thousands of possible records.
 But after interrogating all drivers, nothing significant was found. When all the hope of catching the culprit was lost, Sam realized that SAGOber has all the info regarding the passengers as well. 
 Maybe we could link the riders and passengers(users) to get unique values.
@@ -71,11 +82,16 @@ INNER JOIN users AS u ON u.id = r.rider_id;
 
 ```
 
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture5.PNG)
+
+
 We now have 109 records, far more than 89 records above. But the good news is we have link to find those passengers(users) now.
 
 Suddenly, there was a breakthrough. An anonymous call that somebody from inside(employees) helped someone from outside was revealed. That means, minimum 2 people were involved in this heist.
 Now, we need to split the names in passengers(users) table to first_name and last_name so that we can link to employees database.
+Let's Check Users Table to find Passengers Details
 
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture6.PNG)
 
 ## Query 4: Splitting passengers(users) name 
 
@@ -93,6 +109,8 @@ INNER JOIN users AS u ON u.id  = r.rider_id;
 We have 103 records now which tells us that someone from these 103 people have done the heist. 
 Now, we need to link the 103 passengers(users) names to the employees database.
 
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture7.PNG)
+
 ## Query 5: Linking passengers(users) to Employees database 
 
 ```
@@ -108,6 +126,8 @@ JOIN suspect_riders_name AS u ON t1.last_name = u.last_name
 ORDER BY "Riders";
 
 ```
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture.PNG)
+
 Hurray! We did it. We narrowed it down to just 11 suspects from potential thousands of records.
 
 An interesting pattern was seen. The Employee and the Passenger had same last name. So they can be family members who conducted this heist.
@@ -116,6 +136,8 @@ After interrogation, it was revealed that it was employee Gino Peck and rider Je
 Reason for the data breach was that Gino is working since 1995 very little promotion activity and less salary raises. Gino got access to database somehow and handed that data to a family member Jeanne.
 
 We solved the mystery. We retrieve the data and no data breach has taken place. 
+
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capfture.PNG)
 
 ## Installation for databases mentioned the project
 
@@ -140,3 +162,6 @@ Step7: Run the above mentioned queries
 
 ```
     
+ ### Feedback & Queries
+
+If you have any feedback or Queries, please reach out to me at sakshemgotekar@gmail.com
