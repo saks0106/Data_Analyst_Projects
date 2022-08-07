@@ -31,6 +31,12 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
 [![Google Drive](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
 
 
+ - [Data and Lookup Files](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
+ - 
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
 Step1: Download all the above tables(.csv) files & store in one folder
 
 Step2: Open the project .pbix file or create a new .pbix file.
