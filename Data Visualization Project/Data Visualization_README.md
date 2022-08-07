@@ -28,7 +28,8 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
 
 {google_docs}[document_url](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing){/google_docs}
 
-{Data Files}(https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing){/google_docs}
+[![Google Drive](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
+
 
 Step1: Download all the above tables(.csv) files & store in one folder
 
@@ -263,4 +264,9 @@ Home Ribbon --> Transform Data --> Data Source Setting -->Change Source. Update 
 ![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Data%20Visualization%20Project/Screenshots/1920.PNG)
 
 
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at sakshemgotekar@gmail.com
 
