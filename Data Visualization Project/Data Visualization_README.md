@@ -271,7 +271,8 @@ Home Ribbon --> Transform Data --> Data Source Setting -->Change Source. Update 
 
 
 
-## Feedback
+## Feedback & Queries
 
-If you have any feedback, please reach out to us at sakshemgotekar@gmail.com
+If you have any feedback or Queries, please reach out to me at sakshemgotekar@gmail.com
+
 
