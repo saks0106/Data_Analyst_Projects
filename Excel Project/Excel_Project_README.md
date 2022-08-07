@@ -78,6 +78,8 @@ Excel File along with VBA Macros is shared in Google Drive Link(as file size was
     25.Monte Carlo Simulation: Ending the Project with a small Casino Game using Data Table
 
 
+![]([https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Excel%20Project/Capture.PNG))
+
     
 
 
@@ -96,3 +98,8 @@ Excel File along with VBA Macros is shared in Google Drive Link(as file size was
     6.VBA Text File: Add any file from local directory to our existing excel sheet
 
     
+
+## Feedback & Queries
+
+If you have any feedback or Queries, please reach out to me at sakshemgotekar@gmail.com
+
