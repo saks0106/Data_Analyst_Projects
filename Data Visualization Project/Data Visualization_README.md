@@ -25,7 +25,7 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
     1.Sales by Store
     2.Food Inventory
 
-
+## Google Drive Links for Various Files
 
  - [Data and Lookup Files](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
  
@@ -33,6 +33,7 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
  
  - [Project Images PDF](https://drive.google.com/file/d/1lAeXLOM3n0EbS1GB2d7--bKgpLfYHEMV/view?usp=sharing)
 
+## Project Installation Process
 
 Step1: Download all the above tables(.csv) files & store in one folder
 
@@ -50,6 +51,7 @@ Home Ribbon --> Transform Data --> Data Source Setting -->Change Source. Update 
 
 
 
+## PROJECT DESCRIPTIONS & SUMMARY:
 
 ## The Actual Insights - Just the Most Important Insights & Unique Power BI Functions are used below.
 
