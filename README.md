@@ -1,3 +1,11 @@
+# 🚀 About Me
+## Hi, I'm Sakshem! But you can call me Sam 👋
+I'm a Data Analyst who aspires to know everything about the Data!. 
+
+I have done my Bachelor of Science in Information Technology from St.Xaver's College, Autonomous, Mumbai in 2016. After trying almost all the job profiles available in the market, I settled down for one....Government Job but again didn't work for me because of multiple reasons.
+Until last year, little did I know about this amazing field of Data Science & in particular Data Analyst profile. The profile & work culture inspires me to be Successful and grow in the field, ready to learn new Technologies and Skills to upgrade my old ones. You know they say:
+
+![](https://miro.medium.com/max/1400/1*pYlznJjtz4upW4v2oly8SQ.jpeg)
 
 
 # The Data Analyst Project Itself - README
@@ -5,7 +13,7 @@
 
 ## The Projects:
 
-As a Future Data Analyst & a Goal to be Successful in Data Science Field, here are few core projects which are mandatory to be a Good Data Analyst
+As a Future Data Analyst & a Goal to be Successful in Data Science Field, here are few core projects which are mandatory to be a Good Data Analyst( according to Online Research)
 
 I have worked on different technologies throughout my Academic and Professional Career but inorder to make a Good Career as a Data Analyst, I had to bring in all my wisdom gained throughout many years together to make these projects possible.
 
@@ -37,14 +45,14 @@ This projects revolves around Sam's Daily routine & how he helps the business to
 
 #### Project 2: Excel
 
-2. **Excel**: We know how popular excel is since its inception. I haven't found a business who doesn't use Excel. So, to be a Excellent Data Analyst, this tool needs to be mastered(or atleast the foundations and beyond needs to be strong). 
+2. **Excel**: We know how popular excel is since its inception. I haven't found a business who doesn't use Excel(or similar technology). So, to be an Excellent Data Analyst, this tool needs to be mastered(or atleast the foundations and beyond needs to be strong). 
 
 #### Personal Take:
 I have been using Excel since my School days to do basic calculation. My previous job heavily relied on this tool & other MS Office products to get the job done. Building spreadsheets, calculations via various functions, Graphical Representation of Data etc were some the most commom use cases.
 
 
 #### The Excel Projects:
-The Excel projects which I made are a series of intermittent spreadsheets covering High Level aspects of Excel like Pivot Tables, Graphs & Charts & VBA Macros. The main intension of these multisheet projects is to cover all required skills like Productivity, Formatting, Formulas, Visualization, Pivot Tables, Analytics.
+The Excel projects which I made are a series of intermittent spreadsheets covering High Level aspects of Excel like Pivot Tables, Graphs & Charts & VBA Macros. The main intension of these multisheet projects is to cover all required skills like **Productivity**, **Formatting**, **Formulas**, **Visualization**, **Pivot Tables**, **Analytics**.
 
  - [Check the Full Excel Project](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Excel%20Project/Excel_Project_README.md)
 
@@ -52,7 +60,7 @@ The Excel projects which I made are a series of intermittent spreadsheets coveri
 
 #### Project 3: Machine Learning
 
-1. **Machine Learning**: Machine Learning in Data Science has become popular these days as like allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
+1. **Machine Learning**: Machine Learning in Data Science has become popular these days as it allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
 
 #### Personal Take: 
 I order to know Data Science, knowledge of few Python libraries are needed like **Pandas**, **Numpy**, **Matplotlib**, **SKLearn** for Models along with **Deep Learning** library like **Tensorflow with Keras**. **I do have a working knowledge on all these libraries** mentioned & have used these wherever possible in by Data Analyst Projects
@@ -113,18 +121,12 @@ If you have any feedback or Queries, please reach out to me at sakshemgotekar@gm
 
 
 
-## 🚀 About Me
-# Hi, I'm Sakshem! but you can call be Sam 👋
-I'm a Data Analyst who aspires to know everything about the Data!. 
-
-I have done my Bachelor of Science in Information Technology from St.Xaver's College, Autonomous, Mumbai in 2016. After trying almost all the job profiles available in the market, I settled down for one....Government Job but again didn't work for me because of multiple reasons.
-Until last year, little did I know about this amazing field of Data Science & in particular Data Analyst. The profile & work culture inspires me to be Successful and grow in the field, ready to learn new Technologies and skills to upgrade my old ones.
 
 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Improving my Analytical & Problem Solving Skill
+👩‍💻 I'm currently working on Improving my Analytical & Problem Solving Skill (mostly Python)
 
 🧠 I'm currently learning Advance Python & Deep Learning
 
@@ -134,7 +136,7 @@ Until last year, little did I know about this amazing field of Data Science & in
 
 📫 How to reach me sakshemgotekar@gmail.com
 
-⚡️ Fun fact Our Ancestors are not want we think
+⚡️ Fun fact ..Our Ancestors are not want we think
 
 
 ## 🛠 Skills
