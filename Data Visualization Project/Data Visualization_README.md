@@ -26,15 +26,12 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
     2.Food Inventory
 
 
-{google_docs}[document_url](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing){/google_docs}
-
-[![Google Drive](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
-
 
  - [Data and Lookup Files](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
  - 
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Power BI Project File](https://drive.google.com/file/d/1NRVhatJC_H0_sO1U3_bIAPiQGz-ptwKT/view?usp=sharing)
+ - 
+ - [Project Images PDF](https://drive.google.com/file/d/1lAeXLOM3n0EbS1GB2d7--bKgpLfYHEMV/view?usp=sharing)
 
 
 Step1: Download all the above tables(.csv) files & store in one folder
