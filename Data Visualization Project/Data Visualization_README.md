@@ -25,7 +25,7 @@ SaGo Coffee House or just Sago is a intercity coffee house based in New York & h
     1.Sales by Store
     2.Food Inventory
 
-
+![Data Files](https://drive.google.com/drive/folders/15NH9m4X0W-3cSlvA-Tw-8Sxu4vFoDadg?usp=sharing)
 
 ## Installation
 
@@ -260,4 +260,6 @@ Home Ribbon --> Transform Data --> Data Source Setting -->Change Source. Update 
     1.Matrix view to draw insights based on Week, Quarter, Month and Year
 
 ![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Data%20Visualization%20Project/Screenshots/1920.PNG)
+
+
 
