@@ -4,7 +4,8 @@
 Power BI is an interactive data visualization software by Microsoft with a primary focus on business intelligence.
 Business Intelligence is a broad term which combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations make more data-driven decisions.
 
-
+![](https://drive.google.com/file/d/1I5dsMneSfJ5ByIuRmSxngeTW8oB467yy/view?usp=sharing)
+![alt](http://url/to/img.png)
 
 ## The Project Itself: SaGo's Coffee House
 
