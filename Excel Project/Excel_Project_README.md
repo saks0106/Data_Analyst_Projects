@@ -78,8 +78,11 @@ Excel File along with VBA Macros is shared in Google Drive Link(as file size was
     25.Monte Carlo Simulation: Ending the Project with a small Casino Game using Data Table
 
 
-    
+![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/Excel%20Project/Capture.PNG)
 
+ - [Excel File Link](https://docs.google.com/spreadsheets/d/1QyLxLCqj-wePZriZLU9boMrjshDnR18V/edit?usp=sharing&ouid=113249777703198557634&rtpof=true&sd=true
+)
+ - [VBA Macros Link](https://drive.google.com/drive/folders/1oooTttwwosUkhCjyrOTNxc1l7JaWaWOt?usp=sharing)
 
 **VBA Macros**: Macros are used to Automate the experience of user. Our 6 Projects tries to cover important aspects of VBA Macros
 
@@ -96,3 +99,8 @@ Excel File along with VBA Macros is shared in Google Drive Link(as file size was
     6.VBA Text File: Add any file from local directory to our existing excel sheet
 
     
+
+## Feedback & Queries
+
+If you have any feedback or Queries, please reach out to me at sakshemgotekar@gmail.com
+
