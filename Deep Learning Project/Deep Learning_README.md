@@ -7,9 +7,9 @@
 Sago Coffee House @ New York (same as our Data Visualization Project) has gained tremendous Success in the last few years and has decided to venture even further by adding various cuisine to their existing Menu and giving Customer a great variety of Food Dishes from all over the world. 
 
 **The Project**: Sago wants to enhance Customer Experience even further. The task is simple:
-When the Customer enters the resturant, they are introduced to many food dishes & in most cases they would be unaware of it but willing to try the dish. Sago's CEO wants a mobile application wherein when the User clicks the photo of the food dish, the application tells which dish it is & all the necessary information along with it to make the Customer try it once.
+When the Customer enters the restaurant, they are introduced to many food dishes & in most cases they would be unaware of it but willing to try the dish. Sago's CEO wants a mobile application wherein when the User clicks the photo of the food dish, the application tells which dish it is & all the necessary information along with it to make the Customer try it once.
 
-Sam the inhouse Data Scientist & Deep Learning Expert is called upto for this task. His task is to gather all the images of different food items, prepare and train Deep Learning Models based on varying images of food items having different quantities and qualities.
+Sam the inhouse Data Scientist & Deep Learning Expert is called upon for this task. His task is to gather all the images of different food items, prepare and train Deep Learning Models based on varying images of food items having different quantities and qualities.
 
 ## Food Multiclass Classification Book 1: Knowing the Data & Binary Class Food Classification
 Book 1 contains the prerequisites to prepare the final high accuracy model. Here we are introducted to Tensorflow with Keras. 
