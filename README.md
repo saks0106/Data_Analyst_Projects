@@ -18,11 +18,11 @@ As a Future Data Analyst & a Goal to be Successful in Data Science Field, here a
 I have worked on different technologies throughout my Academic and Professional Career but inorder to make a Good Career as a Data Analyst, I had to bring in all my wisdom gained throughout many years together to make these projects possible.
 
 
-### Projects Description 
+## Projects Description 
 
 #### Project 1: Power BI
 
-1. **Data Visualization**: We all know how important it is to communicate through Visual Representation as non techincal people like Stakeholders, Management, Common Viewers won't take into consideration boring looking Tables & Graphs. 
+**Data Visualization**: We all know how important it is to communicate through Visual Representation as non techincal people like Stakeholders, Management, Common Viewers won't take into consideration boring looking Tables & Graphs. 
 
 Data Visualization helps to tell stories by curating data into a form easier to understand, highlighting the trends and outliers thus making a long lasting impression in the minds of the Viewers. 
 
@@ -42,10 +42,40 @@ This projects revolves around Sam's Daily routine & how he helps the business to
 
 
 
+#### Project 2: Deep Learning
 
-#### Project 2: Excel
+**Deep Learning**: Deep Learning is used were traditional Machine Learning Models fail or give Very Low Accuracy or Very High Error. In any case, if project requires the use of any form of Neural Network, Deep Learning is the preferred choice. The Advantages of Deep Learning method of Prediction are immence compare to Machine Learning. The Advantages are as follows:
 
-2. **Excel**: We know how popular excel is since its inception. I haven't found a business who doesn't use Excel(or similar technology). So, to be an Excellent Data Analyst, this tool needs to be mastered(or atleast the foundations and beyond needs to be strong). 
+            1.Almost every line of code can be tweaked based upon our needs and requirements. 
+            2.Easy to use Deep Learning libraries like Tensorflow with Keras
+            3.Options like Transfer Learning like Feature Extraction, Fine-Tuning, Scaling are not avaiable for ML
+            4.Various Callbacks to save and analyze our Model
+
+The also has certain drawbacks which can't be ignored. The Disadvantages are as follows:
+
+            1.Training takes longer than usual as Every Neuron updates with Weights and Biases
+            2.Very few dedicated and specific models are only available
+            3.As every line of code can be tweaked based upon our needs and requirements, experimentation time also increases
+            4.A Good working knowledge is required to tweak changes
+
+#### Personal Take: 
+
+I like Deep Learning more than Machine Learning because of the above advantages. Also there is so much more to know and learn as new technologies keep on emerging.
+   
+
+#### The Deep Learning Project:
+The Project: Sago wants to enhance Customer Experience even further. The task is simple: When the Customer enters the resturant, they are introduced to many food dishes & in most cases they would be unaware of it but willing to try the dish. Sago's CEO wants a mobile application wherein when the User clicks the photo of the food dish, the application tells which dish it is & all the necessary information along with it to make the Customer try it once.
+
+Sam the inhouse Data Scientist & Deep Learning Expert is called upto for this task. His task is to gather all the images of different food items, prepare and train Deep Learning Models based on varying images of food items having different quantities and qualities.
+
+
+- [Check the Full Deep Learning Project](https://github.com/saks0106/Data_Science_Projects/blob/master/Deep%20Learning%20Project/Deep%20Learning_README.md)
+
+
+
+#### Project 3: Excel
+
+**Excel**: We know how popular excel is since its inception. I haven't found a business who doesn't use Excel(or similar technology). So, to be an Excellent Data Analyst, this tool needs to be mastered(or atleast the foundations and beyond needs to be strong). 
 
 #### Personal Take:
 I have been using Excel since my School days to do basic calculation. My previous job heavily relied on this tool & other MS Office products to get the job done. Building spreadsheets, calculations via various functions, Graphical Representation of Data etc were some the most commom use cases.
@@ -58,9 +88,9 @@ The Excel projects which I made are a series of intermittent spreadsheets coveri
 
 
 
-#### Project 3: Machine Learning
+#### Project 4: Machine Learning
 
-1. **Machine Learning**: Machine Learning in Data Science has become popular these days as it allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
+**Machine Learning**: Machine Learning in Data Science has become popular these days as it allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data.
 
 #### Personal Take: 
 I order to know Data Science, knowledge of few Python libraries are needed like **Pandas**, **Numpy**, **Matplotlib**, **SKLearn** for Models along with **Deep Learning** library like **Tensorflow with Keras**. **I do have a working knowledge on all these libraries** mentioned & have used these wherever possible in by Data Analyst Projects
@@ -97,9 +127,9 @@ Sam is told to classify projects based on the State of being Successful & Failur
 
 
 
-#### Project 4: SQL
+#### Project 5: SQL
 
-1. **SQL**: SQL with different RDBMS has always been a goto option to get Clear and Accurate Data for Prediction, Classification or Analysis.
+**SQL**: SQL with different RDBMS has always been a goto option to get Clear and Accurate Data for Prediction, Classification or Analysis.
 
 #### Personal Take: 
 
