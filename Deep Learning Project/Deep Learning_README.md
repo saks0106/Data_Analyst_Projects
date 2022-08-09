@@ -29,6 +29,10 @@ We then start with **Convolutional Neural Network & Computer Vision**. Our real 
 After trying couple of hand made model using Sequential **Conv2D** & **MaxPool2D** and tuning their hyperparameters, we still struggle to get a decent Accuracy score. Let's try some more advance methods in Book 2 and Book 3.
 
 
+ - [Deep Learning Book 1](https://github.com/saks0106/Data_Science_Projects/blob/master/Deep%20Learning%20Project/1_Food_Vision_101_Part1_Knowing_the_data.ipynb)
+
+
+
 ## Food Multiclass Classification Book 2: Mini Food Multiclass Classification with Transfer Learning
 We take the 2 class from Book 1 that is Pizza and Steak along with 8 other Food Classes which now contains 7500 images (each class has 750 images). Using our previously build models in Book 1 for our current 10 classes Food Classification gives a meagre  ~35% to ~40% accuracy which is not practical. So we try **Transfer Learning**.
 
@@ -42,6 +46,7 @@ After tweaking and playing with different models, we try to predict the food cla
 
 We also combine Fine Tuning Transfer Learning to open up top 10 frozen layers so that model learns and updates it's weights based on our data. Finally we end the Book through our final model where in all the 7500 dataset with Data Augmentation and Fine Tuning Transfer Learning to predict the model Accuracy and Finally compare different models on **TensorBoard**.
 
+ - [Deep Learning Book 2](https://github.com/saks0106/Data_Science_Projects/blob/master/Deep%20Learning%20Project/2_Food_Vision_101_Part2_Gearing_up_Mini_Food_Vision_With_GPU.ipynb)
 
 ## Food Multiclass Classification Book 3:  Scaling up the project Full Dataset
 
@@ -64,6 +69,8 @@ Finally after working on small & medium size dataset,it's time we bring in our m
 We then train our model on similar lines as used earlier using Data Augmentation, Transfer Learning Fine Tuning using Prefetching & Mixed precision, loading via Functional API and then fit the model and carry out hyperparameters tweaking if needed.
 
 We come to the last state of saving the model and loading the saved model to check if everything works as expected. Our Food Vision Model is ready to be handed to the Development team who will bring our model alive and finally complete the company's Requirements.
+
+ - [Deep Learning Book 3](https://github.com/saks0106/Data_Science_Projects/blob/master/Deep%20Learning%20Project/3_Food_Vision_Part3_Scaling_up_%26_Final_With_Full_101_Dataset.ipynb)
 
 Sago's CEO is very happy as Sales have now increased tremendously as Customers try different food dishes which they were unaware of before.
 
