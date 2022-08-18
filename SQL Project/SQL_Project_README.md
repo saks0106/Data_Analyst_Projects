@@ -51,7 +51,7 @@ Now that we know which vehicles were linked to those rides we use their current 
 
 All the work and the interrogation of the drivers has come up flat as dealing with 428 riders is no joke.
 We'll go ahead and filter out all of the unique riders(passengers) that were on those suspected rides on that horrible day of heist.
-Let's Create a VIEW(Stored Procedure) for our above query
+Let's Create a VIEW for our above query
 
 ![](https://github.com/saks0106/Data_Analyst_Projects/blob/master/SQL%20Project/ScreenShots/Capture3.PNG)
 
